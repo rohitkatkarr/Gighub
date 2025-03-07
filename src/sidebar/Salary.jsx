@@ -9,7 +9,7 @@ const Salary = ({handleChange, handleClick}) => {
         <div className='mb-4'>
             <Button onClickHandler={handleClick} value="" title="Hourly"/>
             <Button onClickHandler={handleClick} value="Monthly" title="Monthly"/>
-            <Button onClickHandler={handleClick} value="Yearly" title="Yearly"/>
+            <Button onClickHandler={handleClick} value="Annually" title="Annually"/>
         </div>
 
         <div>
