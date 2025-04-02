@@ -2,7 +2,24 @@
 🚀 **A Full-Stack MERN Job Portal for Candidates, Employers, and Admins**  
 
 ## **📌 Overview**
-**GIGHUB** is a **job portal** that connects **job seekers** with **employers** and provides an **admin dashboard** to manage users and job postings.  
+**GIGHUB** is a **job portal** that connects **job seekers** with **employers** and provides an **admin dashboard** to manage users and job postings.
+
+## 📸 Screenshots  
+
+### 🔹 Home Page
+![Home Page](/client/src/assets/homepage.png)
+
+### 🔹 Job Listings Page
+![Job Listings](/client/src/assets/homepage2.png)
+
+### 🔹 Candidate Dashboard
+![Candidate Dashboard](/client/src/assets/myjobs.png)
+
+### 🔹 Post Job
+![Post Job](/client/src/assets/postjob.png)
+
+### 🔹 Registration
+![Login/Signup](/client/src/assets/login.png)
 
 ## **🔥 Features**
 ### ✅ Candidate Features:
