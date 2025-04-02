@@ -3,6 +3,8 @@
 
 ## **📌 Overview**
 **GIGHUB** is a **job portal** that connects **job seekers** with **employers** and provides an **admin dashboard** to manage users and job postings.
+## **⚡ Live Version**
+https://gighub-eight.vercel.app/
 
 ## 📸 Screenshots  
 
