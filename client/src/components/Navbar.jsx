@@ -3,6 +3,7 @@ import React, { useContext, useState } from "react";
 import { Link, NavLink } from "react-router-dom";
 import { FaBarsStaggered, FaXmark } from "react-icons/fa6";
 import { AuthContext } from "../context/AuthProvider";
+import logo from "../../public/logo.png"
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -34,7 +35,7 @@ const Navbar = () => {
     <header className="max-w-screen-2xl container mx-auto xl:px-24 px-4">
       <nav className="flex justify-between items-center py-6">
         <a href="/" className="flex items-center gap-2 text-2xl">
-         <img src="/public/logo.png" alt="Gighub" className="w-16 h-auto sm:w-20 md:w-24"/>
+         <img src={logo} alt="Gighub" className="w-16 h-auto sm:w-20 md:w-24"/>
           <span>Gighub</span>
         </a>
 
